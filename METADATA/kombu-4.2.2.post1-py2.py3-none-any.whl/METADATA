@@ -1,0 +1,8 @@
+name: "kombu"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/44/5d/a4162de3033be4b42e59ee5101de92b218a6b0a943de9cbe8bab5c45479a/kombu-4.2.2.post1-py2.py3-none-any.whl"
+  }
+  version: "4.2.2.post1"
+}

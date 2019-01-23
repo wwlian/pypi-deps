@@ -1,0 +1,8 @@
+name: "python-nvd3"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/0b/aa/97165daa6e319409c5c2582e62736a7353bda3c90d90fdcb0b11e116dd2d/python-nvd3-0.15.0.tar.gz"
+  }
+  version: "0.15.0"
+}

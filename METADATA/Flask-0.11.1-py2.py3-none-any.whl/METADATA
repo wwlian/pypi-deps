@@ -1,0 +1,8 @@
+name: "Flask"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/63/2b/01f5ed23a78391f6e3e73075973da0ecb467c831376a0b09c0ec5afd7977/Flask-0.11.1-py2.py3-none-any.whl"
+  }
+  version: "0.11.1"
+}

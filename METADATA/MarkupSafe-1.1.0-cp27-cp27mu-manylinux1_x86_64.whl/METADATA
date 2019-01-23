@@ -1,0 +1,8 @@
+name: "MarkupSafe"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/bc/3a/6bfd7b4b202fa33bdda8e4e3d3acc719f381fd730f9a0e7c5f34e845bd4d/MarkupSafe-1.1.0-cp27-cp27mu-manylinux1_x86_64.whl"
+  }
+  version: "1.1.0"
+}

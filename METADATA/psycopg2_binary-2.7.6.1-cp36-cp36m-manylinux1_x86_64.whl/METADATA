@@ -1,0 +1,8 @@
+name: "psycopg2_binary"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/cd/eb/4e872a11edd82079b4163035389051668c58cd2acc30777b6bee73f5f8a3/psycopg2_binary-2.7.6.1-cp36-cp36m-manylinux1_x86_64.whl"
+  }
+  version: "2.7.6.1"
+}

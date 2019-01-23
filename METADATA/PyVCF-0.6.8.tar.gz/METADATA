@@ -1,0 +1,8 @@
+name: "PyVCF"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/20/b6/36bfb1760f6983788d916096193fc14c83cce512c7787c93380e09458c09/PyVCF-0.6.8.tar.gz"
+  }
+  version: "0.6.8"
+}

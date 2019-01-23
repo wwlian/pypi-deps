@@ -1,0 +1,8 @@
+name: "Flask-Bcrypt"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/1d/c0/6d4c04d007d72b355de24e7a223978d1a95732245f9e9becbf45d3024bf8/Flask-Bcrypt-0.7.1.tar.gz"
+  }
+  version: "0.7.1"
+}

@@ -1,0 +1,8 @@
+name: "adal"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/2d/2f/14882b8dae0977e85577abde3065c141fb94dbb242adfb80e21797e4f7c9/adal-1.2.0-py2.py3-none-any.whl"
+  }
+  version: "1.2.0"
+}

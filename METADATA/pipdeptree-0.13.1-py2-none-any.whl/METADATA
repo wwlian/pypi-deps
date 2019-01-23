@@ -1,0 +1,8 @@
+name: "pipdeptree"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/5a/bc/71a741a670f053a5c53af27379d0bd456e2e79302cbd23ee5a1cf6808938/pipdeptree-0.13.1-py2-none-any.whl"
+  }
+  version: "0.13.1"
+}

@@ -1,0 +1,8 @@
+name: "grpcio"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/bf/d9/5880e43198f048afbe75348baceafc483e4c3ab657e3e3c1d0b57dacaa0c/grpcio-1.17.1-cp27-cp27mu-manylinux1_x86_64.whl"
+  }
+  version: "1.17.1"
+}

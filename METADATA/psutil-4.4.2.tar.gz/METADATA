@@ -1,0 +1,8 @@
+name: "psutil"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/6c/49/0f784a247868e167389f6ac76b8699b2f3d6f4e8e85685dfec43e58d1ed1/psutil-4.4.2.tar.gz"
+  }
+  version: "4.4.2"
+}

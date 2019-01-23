@@ -1,0 +1,8 @@
+name: "oauthlib"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/b8/03/ec2be6c125f330361afe33bff48ef7549c47da8fefc658a2df2242175b4b/oauthlib-3.0.0-py2.py3-none-any.whl"
+  }
+  version: "3.0.0"
+}

@@ -1,0 +1,8 @@
+name: "google_api_python_client"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/eb/6c/8c1781a251beb3bc1670d6d1934da51620a049380ea7a6a821099f884b62/google_api_python_client-1.6.7-py2.py3-none-any.whl"
+  }
+  version: "1.6.7"
+}

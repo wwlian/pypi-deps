@@ -1,0 +1,8 @@
+name: "h5py"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/53/08/27e4e9a369321862ffdce80ff1770553e9daec65d98befb2e14e7478b698/h5py-2.9.0-cp27-cp27mu-manylinux1_x86_64.whl"
+  }
+  version: "2.9.0"
+}

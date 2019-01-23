@@ -1,0 +1,8 @@
+name: "google_cloud_core"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/0c/f2/3c225e7a69cb27d283b68bff867722bd066bc1858611180197f711815ea5/google_cloud_core-0.29.1-py2.py3-none-any.whl"
+  }
+  version: "0.29.1"
+}

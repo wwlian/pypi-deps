@@ -1,0 +1,8 @@
+name: "pyasn1_modules"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/59/84/339c2de112d7448d7d4c500b8016783d9eac8981f89ec1d58fdd4685d97f/pyasn1_modules-0.2.3-py2.py3-none-any.whl"
+  }
+  version: "0.2.3"
+}

@@ -1,0 +1,8 @@
+name: "oauth2client"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/a7/70/95d5fb8b839c2c33e8ed76cc0cc060bd57d6506746790a753137df9ebd60/oauth2client-2.0.2.tar.gz"
+  }
+  version: "2.0.2"
+}

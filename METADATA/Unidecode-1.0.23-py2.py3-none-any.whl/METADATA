@@ -1,0 +1,8 @@
+name: "Unidecode"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/31/39/53096f9217b057cb049fe872b7fc7ce799a1a89b76cf917d9639e7a558b5/Unidecode-1.0.23-py2.py3-none-any.whl"
+  }
+  version: "1.0.23"
+}

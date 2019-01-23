@@ -1,0 +1,8 @@
+name: "google_resumable_media"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/e2/5d/4bc5c28c252a62efe69ed1a1561da92bd5af8eca0cdcdf8e60354fae9b29/google_resumable_media-0.3.2-py2.py3-none-any.whl"
+  }
+  version: "0.3.2"
+}

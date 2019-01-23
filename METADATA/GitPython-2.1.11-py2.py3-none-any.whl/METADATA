@@ -1,0 +1,8 @@
+name: "GitPython"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/fe/e5/fafe827507644c32d6dc553a1c435cdf882e0c28918a5bab29f7fbebfb70/GitPython-2.1.11-py2.py3-none-any.whl"
+  }
+  version: "2.1.11"
+}

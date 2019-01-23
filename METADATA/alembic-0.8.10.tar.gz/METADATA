@@ -1,0 +1,8 @@
+name: "alembic"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/f0/7d/7fcda63887d9726e0145e98802baf374ec8cf889325e469194cd7926c98e/alembic-0.8.10.tar.gz"
+  }
+  version: "0.8.10"
+}

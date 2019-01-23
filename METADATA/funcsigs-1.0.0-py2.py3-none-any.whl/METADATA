@@ -1,0 +1,8 @@
+name: "funcsigs"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/09/8d/17528625d12ca90651dd1f7958fd0d32b23b15f2197023372669fd683321/funcsigs-1.0.0-py2.py3-none-any.whl"
+  }
+  version: "1.0.0"
+}

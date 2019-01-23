@@ -1,0 +1,8 @@
+name: "hdfs"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/96/4e/f82bd349c7893e1595429ecc95233369bc33c9a26e4859991439bfa01c1f/hdfs-2.2.2.tar.gz"
+  }
+  version: "2.2.2"
+}

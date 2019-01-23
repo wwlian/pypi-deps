@@ -1,0 +1,8 @@
+name: "tensorboard"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/51/ae/9840c4837c6f54034ac942b5344396e8c3d74686a9bd29beafdf633cc221/tensorboard-1.12.2-py2-none-any.whl"
+  }
+  version: "1.12.2"
+}

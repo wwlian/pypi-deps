@@ -1,0 +1,8 @@
+name: "google_cloud_pubsub"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/37/92/c74a643126d58505daec9addf872dfaffea3305981b90cc435f4b9213cdd/google_cloud_pubsub-0.26.0-py2.py3-none-any.whl"
+  }
+  version: "0.26.0"
+}

@@ -1,0 +1,8 @@
+name: "google_cloud_storage"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/92/da/115f23ba9aa56f4d5de3f02306a36eb6d0884561e0059987865cb0cce42e/google_cloud_storage-1.13.2-py2.py3-none-any.whl"
+  }
+  version: "1.13.2"
+}

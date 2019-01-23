@@ -1,0 +1,8 @@
+name: "billiard"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/8b/b7/c2fe04f2522bb02d044347734eeda3ff5c7a632fa7d0401530a371ba73db/billiard-3.5.0.5.tar.gz"
+  }
+  version: "3.5.0.5"
+}

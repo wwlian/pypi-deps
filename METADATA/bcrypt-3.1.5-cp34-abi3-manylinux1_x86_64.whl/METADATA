@@ -1,0 +1,8 @@
+name: "bcrypt"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/31/4b/4057d0716e7170c29ff12e19791eb6037422620835e4a58a01d4790e56d1/bcrypt-3.1.5-cp34-abi3-manylinux1_x86_64.whl"
+  }
+  version: "3.1.5"
+}

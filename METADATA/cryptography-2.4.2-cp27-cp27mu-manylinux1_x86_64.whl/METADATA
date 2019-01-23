@@ -1,0 +1,8 @@
+name: "cryptography"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/7f/ba/383b51cc26e3141c689ce988814385c7659f5ba01c4b5f2de38233010b5f/cryptography-2.4.2-cp27-cp27mu-manylinux1_x86_64.whl"
+  }
+  version: "2.4.2"
+}

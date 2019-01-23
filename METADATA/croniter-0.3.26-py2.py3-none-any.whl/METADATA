@@ -1,0 +1,8 @@
+name: "croniter"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/ba/34/2d21bb4ff3866264223c0fe9fbd48cb6042652e2a126308296de422799dd/croniter-0.3.26-py2.py3-none-any.whl"
+  }
+  version: "0.3.26"
+}

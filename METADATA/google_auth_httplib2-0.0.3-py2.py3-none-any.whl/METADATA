@@ -1,0 +1,8 @@
+name: "google_auth_httplib2"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/33/49/c814d6d438b823441552198f096fcd0377fd6c88714dbed34f1d3c8c4389/google_auth_httplib2-0.0.3-py2.py3-none-any.whl"
+  }
+  version: "0.0.3"
+}

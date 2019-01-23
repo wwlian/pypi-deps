@@ -1,0 +1,8 @@
+name: "kubernetes"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/40/eb/4d6a80db84ac24c867c94fbf16e6f26db9780f5232f46ddd2e5539b42205/kubernetes-8.0.1-py2.py3-none-any.whl"
+  }
+  version: "8.0.1"
+}

@@ -1,0 +1,8 @@
+name: "websocket_client"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/26/2d/f749a5c82f6192d77ed061a38e02001afcba55fe8477336d26a950ab17ce/websocket_client-0.54.0-py2.py3-none-any.whl"
+  }
+  version: "0.54.0"
+}

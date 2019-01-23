@@ -1,0 +1,8 @@
+name: "google_cloud_container"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/2e/30/9c652cbf7f8c265d978c8ce910c03e39c5974a927454b943af20264734b6/google_cloud_container-0.2.1-py2.py3-none-any.whl"
+  }
+  version: "0.2.1"
+}

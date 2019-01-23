@@ -1,0 +1,8 @@
+name: "Flask_WTF"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/f7/29/4ca0115bb8ed6c257de3d7928ed423c9f02010002aa8304794cdb22433b2/Flask_WTF-0.14-py2.py3-none-any.whl"
+  }
+  version: "0.14"
+}

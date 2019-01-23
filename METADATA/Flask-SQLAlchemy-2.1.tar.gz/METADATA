@@ -1,0 +1,8 @@
+name: "Flask-SQLAlchemy"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/b3/52/227aaf4e8cebb153e239c518a9e916590b2fe0e4350e6b02d92b546b69b7/Flask-SQLAlchemy-2.1.tar.gz"
+  }
+  version: "2.1"
+}
