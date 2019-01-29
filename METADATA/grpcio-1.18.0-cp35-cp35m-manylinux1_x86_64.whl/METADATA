@@ -1,0 +1,8 @@
+name: "grpcio"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/ea/72/dbdce5ba0eb2ee22069430f1c18c2fef22b4f6ffbf188ab2d416695f3992/grpcio-1.18.0-cp35-cp35m-manylinux1_x86_64.whl"
+  }
+  version: "1.18.0"
+}

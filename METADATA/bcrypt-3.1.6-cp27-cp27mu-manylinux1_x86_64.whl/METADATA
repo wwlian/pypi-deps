@@ -1,0 +1,8 @@
+name: "bcrypt"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/50/d8/95f7cb04344033bf9d1a12c5a7969a15999b6a710fbe1969c517333d9a62/bcrypt-3.1.6-cp27-cp27mu-manylinux1_x86_64.whl"
+  }
+  version: "3.1.6"
+}

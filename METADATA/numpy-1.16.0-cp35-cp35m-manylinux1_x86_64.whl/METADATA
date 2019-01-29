@@ -1,0 +1,8 @@
+name: "numpy"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/64/24/2e9c72f44cec8c872000d78c54230e40550c494647e352d1d06724cdaee6/numpy-1.16.0-cp35-cp35m-manylinux1_x86_64.whl"
+  }
+  version: "1.16.0"
+}

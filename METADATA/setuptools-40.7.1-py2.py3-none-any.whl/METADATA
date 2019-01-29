@@ -1,0 +1,8 @@
+name: "setuptools"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/bf/ae/a23db1762646069742cc21393833577d3fa438eecaa59d11fb04fa57fcd5/setuptools-40.7.1-py2.py3-none-any.whl"
+  }
+  version: "40.7.1"
+}
