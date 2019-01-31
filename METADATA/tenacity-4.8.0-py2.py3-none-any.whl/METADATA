@@ -1,8 +1,0 @@
-name: "tenacity"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/fc/e9/5499018e0d420f8d03a215c310ee7bc6e1a7e84adaa63f6ea208e864bdb6/tenacity-4.8.0-py2.py3-none-any.whl"
-  }
-  version: "4.8.0"
-}

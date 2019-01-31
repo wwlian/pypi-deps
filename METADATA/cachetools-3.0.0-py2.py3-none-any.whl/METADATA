@@ -1,8 +1,0 @@
-name: "cachetools"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/76/7e/08cd3846bebeabb6b1cfc4af8aae649d90249b4aeed080bddb5297f1d73b/cachetools-3.0.0-py2.py3-none-any.whl"
-  }
-  version: "3.0.0"
-}

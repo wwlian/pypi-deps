@@ -1,8 +1,0 @@
-name: "grpc-google-iam-v1"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/9b/28/f26f67381cb23e81271b8d66c00a846ad9d25a909ae1ae1df8222fad2744/grpc-google-iam-v1-0.11.4.tar.gz"
-  }
-  version: "0.11.4"
-}

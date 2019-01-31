@@ -1,8 +1,0 @@
-name: "configparser"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/76/37/02237fed3f1d6ebc7f2d0799e9ea7ada0ed29413e808af0a819c17bd34c1/configparser-3.5.3-py2-none-any.whl"
-  }
-  version: "3.5.3"
-}

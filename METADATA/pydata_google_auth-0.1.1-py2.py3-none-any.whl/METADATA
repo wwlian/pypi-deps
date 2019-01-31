@@ -1,8 +1,0 @@
-name: "pydata_google_auth"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/ad/93/371cfc125aface9c9d6a5b10bebd50a30548c5af2eab7398ab3bdf9720a6/pydata_google_auth-0.1.1-py2.py3-none-any.whl"
-  }
-  version: "0.1.1"
-}

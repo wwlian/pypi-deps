@@ -1,8 +1,0 @@
-name: "python-slugify"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/2e/13/838ba9b35375ed05bc3b959c81f22ef49e7bdb426063bee888d6f2dc84f0/python-slugify-1.1.4.tar.gz"
-  }
-  version: "1.1.4"
-}

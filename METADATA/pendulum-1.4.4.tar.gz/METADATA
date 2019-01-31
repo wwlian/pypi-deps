@@ -1,8 +1,0 @@
-name: "pendulum"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/85/a5/9fc15751f9725923b170ad37d6c61031fc9e941bafd5288ca6ee51233284/pendulum-1.4.4.tar.gz"
-  }
-  version: "1.4.4"
-}

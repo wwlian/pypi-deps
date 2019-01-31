@@ -1,8 +1,0 @@
-name: "mysqlclient"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/de/d7/919042fb7ed78a89e21c4e43d5daed90d5df18ec183bae3de493a7d9e3ed/mysqlclient-1.4.1.tar.gz"
-  }
-  version: "1.4.1"
-}

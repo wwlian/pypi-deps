@@ -1,8 +1,0 @@
-name: "flask-swagger"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/68/97/4e31ac3dc4a44a4b7487eab8404a68c871b57a15811e189862d0bf0c5b55/flask-swagger-0.2.13.tar.gz"
-  }
-  version: "0.2.13"
-}

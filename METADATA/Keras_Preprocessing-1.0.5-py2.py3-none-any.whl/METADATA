@@ -1,8 +1,0 @@
-name: "Keras_Preprocessing"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/fc/94/74e0fa783d3fc07e41715973435dd051ca89c550881b3454233c39c73e69/Keras_Preprocessing-1.0.5-py2.py3-none-any.whl"
-  }
-  version: "1.0.5"
-}

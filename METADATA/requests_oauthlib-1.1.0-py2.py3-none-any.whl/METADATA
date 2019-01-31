@@ -1,8 +1,0 @@
-name: "requests_oauthlib"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/74/d2/91fd85529288418f81e9ed9347b1c548df09327059515cac39e1727b349f/requests_oauthlib-1.1.0-py2.py3-none-any.whl"
-  }
-  version: "1.1.0"
-}

@@ -1,8 +1,0 @@
-name: "google_gax"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/4f/b4/ff312fa42f91535c67567c1d08e972db0e7c548e9a63c6f3bcc5213b32fc/google_gax-0.15.16-py2.py3-none-any.whl"
-  }
-  version: "0.15.16"
-}
