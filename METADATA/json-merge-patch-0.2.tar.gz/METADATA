@@ -1,0 +1,8 @@
+name: "json-merge-patch"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/39/62/3b783faabac9a099877397d8f7a7cc862a03fbf9fb1b90d414ea7c6bb096/json-merge-patch-0.2.tar.gz"
+  }
+  version: "0.2"
+}

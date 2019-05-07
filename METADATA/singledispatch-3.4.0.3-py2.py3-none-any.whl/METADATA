@@ -1,8 +1,0 @@
-name: "singledispatch"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/c5/10/369f50bcd4621b263927b0a1519987a04383d4a98fb10438042ad410cf88/singledispatch-3.4.0.3-py2.py3-none-any.whl"
-  }
-  version: "3.4.0.3"
-}

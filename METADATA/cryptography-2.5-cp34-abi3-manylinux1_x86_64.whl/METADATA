@@ -1,8 +1,0 @@
-name: "cryptography"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/98/71/e632e222f34632e0527dd41799f7847305e701f38f512d81bdf96009bca4/cryptography-2.5-cp34-abi3-manylinux1_x86_64.whl"
-  }
-  version: "2.5"
-}

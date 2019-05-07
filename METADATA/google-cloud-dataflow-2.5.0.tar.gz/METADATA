@@ -1,8 +1,0 @@
-name: "google-cloud-dataflow"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/72/29/3aaa67a276bcb07c3e85a6048b4d9610542082d262256cd6d232d6a8c00a/google-cloud-dataflow-2.5.0.tar.gz"
-  }
-  version: "2.5.0"
-}

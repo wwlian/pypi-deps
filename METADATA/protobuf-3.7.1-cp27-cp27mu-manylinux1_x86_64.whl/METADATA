@@ -1,0 +1,8 @@
+name: "protobuf"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/ea/72/5eadea03b06ca1320be2433ef2236155da17806b700efc92677ee99ae119/protobuf-3.7.1-cp27-cp27mu-manylinux1_x86_64.whl"
+  }
+  version: "3.7.1"
+}

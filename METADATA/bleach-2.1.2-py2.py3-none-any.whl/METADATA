@@ -1,8 +1,0 @@
-name: "bleach"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/07/59/06f368f350cd7f226606c2bc7210c6b336312df62185de333c66d6180512/bleach-2.1.2-py2.py3-none-any.whl"
-  }
-  version: "2.1.2"
-}

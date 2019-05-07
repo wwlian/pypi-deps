@@ -1,8 +1,0 @@
-name: "sendgrid"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/24/21/9bea4c51f949497cdce11f46fd58f1a77c6fcccd926cc1bb4e14be39a5c0/sendgrid-5.6.0-py2.py3-none-any.whl"
-  }
-  version: "5.6.0"
-}

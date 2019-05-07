@@ -1,8 +1,0 @@
-name: "SQLAlchemy"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/cc/4d/96d93ff77cd67aca7618e402191eee3490d8f5f245d6ab7622d35fe504f4/SQLAlchemy-1.1.18.tar.gz"
-  }
-  version: "1.1.18"
-}

@@ -1,0 +1,8 @@
+name: "pytzdata"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/a7/90/c9a148b4c98ccf88765ab7399debd38a33660109c9ba23706f560109b6e1/pytzdata-2019.1-py2.py3-none-any.whl"
+  }
+  version: "2019.1"
+}

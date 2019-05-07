@@ -1,8 +1,0 @@
-name: "protobuf"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/c5/60/ca38e967360212ddbb004141a70f5f6d47296e1fba37964d8ac6cb631921/protobuf-3.7.0-cp36-cp36m-manylinux1_x86_64.whl"
-  }
-  version: "3.7.0"
-}

@@ -1,0 +1,8 @@
+name: "grpcio_gcp"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/ba/83/1f1095815be0de19102df41e250ebbd7dae97d7d14e22c18da07ed5ed9d4/grpcio_gcp-0.2.2-py2.py3-none-any.whl"
+  }
+  version: "0.2.2"
+}

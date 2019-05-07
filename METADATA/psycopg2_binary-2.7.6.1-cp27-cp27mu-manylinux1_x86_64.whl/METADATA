@@ -1,8 +1,0 @@
-name: "psycopg2_binary"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/32/bf/71c9b813b1f8958d75b949f53838bfedcd1ac5064caac4ccac47e9f31572/psycopg2_binary-2.7.6.1-cp27-cp27mu-manylinux1_x86_64.whl"
-  }
-  version: "2.7.6.1"
-}

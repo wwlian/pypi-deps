@@ -1,8 +1,0 @@
-name: "vine"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/62/dd/e30f828a39914626d67876b987d6fc47616b64de680cd0f746fc9c8aab47/vine-1.2.0-py2.py3-none-any.whl"
-  }
-  version: "1.2.0"
-}

@@ -1,0 +1,8 @@
+name: "numpy"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/e1/72/179a78b565ecf01fe98dab6417581d30acac15c2d93c49f93169ebea99b1/numpy-1.16.3-cp27-cp27mu-manylinux1_x86_64.whl"
+  }
+  version: "1.16.3"
+}

@@ -1,8 +1,0 @@
-name: "google_auth"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/4e/85/71b2dfbf5b4241cd031cc333ed71f90a271074a97cb2c517bb65f07a1a90/google_auth-1.6.2-py2.py3-none-any.whl"
-  }
-  version: "1.6.2"
-}

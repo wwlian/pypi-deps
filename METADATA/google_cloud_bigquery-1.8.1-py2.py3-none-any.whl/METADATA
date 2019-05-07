@@ -1,8 +1,0 @@
-name: "google_cloud_bigquery"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/ce/a6/0ac91f24c73045c7b3f40fadd3f622ea2e534e0fa01a9d6e5548a9ac2faa/google_cloud_bigquery-1.8.1-py2.py3-none-any.whl"
-  }
-  version: "1.8.1"
-}

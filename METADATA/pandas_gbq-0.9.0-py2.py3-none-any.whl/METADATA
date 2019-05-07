@@ -1,8 +1,0 @@
-name: "pandas_gbq"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/70/78/cd5ce606a487cf62e82784237599b332dbdf23a41aa237578d906a49bee1/pandas_gbq-0.9.0-py2.py3-none-any.whl"
-  }
-  version: "0.9.0"
-}

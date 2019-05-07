@@ -1,8 +1,0 @@
-name: "avro"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/eb/27/143f124a7498f841317a92ced877150c5cb8d28a4109ec39666485925d00/avro-1.8.2.tar.gz"
-  }
-  version: "1.8.2"
-}

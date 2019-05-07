@@ -1,0 +1,8 @@
+name: "google_cloud_spanner"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/74/4e/025dffb97c2a624f6c845fa72bc115dc8e33414b1ab2b2ab8a385062cbfc/google_cloud_spanner-1.8.0-py2.py3-none-any.whl"
+  }
+  version: "1.8.0"
+}

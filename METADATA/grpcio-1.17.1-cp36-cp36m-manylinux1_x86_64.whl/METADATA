@@ -1,8 +1,0 @@
-name: "grpcio"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/3b/bb/701d879849c938028c09fdb5405dbde7c86644bbbb90098094002db23ded/grpcio-1.17.1-cp36-cp36m-manylinux1_x86_64.whl"
-  }
-  version: "1.17.1"
-}

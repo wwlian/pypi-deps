@@ -1,8 +1,0 @@
-name: "googleapis-common-protos"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/61/29/1549f61917eadd11650e42b78b4afcfe9cb467157af4510ab8cb59535f14/googleapis-common-protos-1.5.6.tar.gz"
-  }
-  version: "1.5.6"
-}

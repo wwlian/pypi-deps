@@ -1,8 +1,0 @@
-name: "Flask-Babel"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/82/b0/986b29938d4e8be7deb552ebfd1ef16c311276a59bcae10dec567a5b3d20/Flask-Babel-0.12.2.tar.gz"
-  }
-  version: "0.12.2"
-}

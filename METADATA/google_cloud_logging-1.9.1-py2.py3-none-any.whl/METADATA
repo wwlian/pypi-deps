@@ -1,8 +1,0 @@
-name: "google_cloud_logging"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/dc/18/ba50fb64f3df4b8cc81b64c43ebc67b05750b7e4dcd981526c8c6e524942/google_cloud_logging-1.9.1-py2.py3-none-any.whl"
-  }
-  version: "1.9.1"
-}

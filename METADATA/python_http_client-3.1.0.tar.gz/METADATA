@@ -1,8 +1,0 @@
-name: "python_http_client"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/e0/74/e43e494a44e78a1188552aa9dfc2f738cd4089b6f8a18c49f186f2b841a3/python_http_client-3.1.0.tar.gz"
-  }
-  version: "3.1.0"
-}

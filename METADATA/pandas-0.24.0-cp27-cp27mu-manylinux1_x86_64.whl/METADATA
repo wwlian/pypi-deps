@@ -1,8 +1,0 @@
-name: "pandas"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/78/8c/ab02f368a41b5d5a901b186cdc33832752f32c8eb3276ce1127e6f72466f/pandas-0.24.0-cp27-cp27mu-manylinux1_x86_64.whl"
-  }
-  version: "0.24.0"
-}

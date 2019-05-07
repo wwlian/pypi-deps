@@ -1,0 +1,8 @@
+name: "Flask-Admin"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/ef/2a/c3f081310e22443ee3bd69b09ee710d208285e4c4b44a5812fe2d8465a92/Flask-Admin-1.5.2.tar.gz"
+  }
+  version: "1.5.2"
+}
