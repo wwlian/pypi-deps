@@ -1,0 +1,8 @@
+name: "uritemplate"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/e5/7d/9d5a640c4f8bf2c8b1afc015e9a9d8de32e13c9016dcc4b0ec03481fb396/uritemplate-3.0.0-py2.py3-none-any.whl"
+  }
+  version: "3.0.0"
+}

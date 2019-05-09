@@ -1,0 +1,8 @@
+name: "cffi"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/5f/bf/6aa1925384c23ffeb579e97a5569eb9abce41b6310b329352b8252cee1c3/cffi-1.12.3-cp36-cp36m-manylinux1_x86_64.whl"
+  }
+  version: "1.12.3"
+}

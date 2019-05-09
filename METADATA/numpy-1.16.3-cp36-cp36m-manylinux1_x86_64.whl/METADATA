@@ -1,0 +1,8 @@
+name: "numpy"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/c1/e2/4db8df8f6cddc98e7d7c537245ef2f4e41a1ed17bf0c3177ab3cc6beac7f/numpy-1.16.3-cp36-cp36m-manylinux1_x86_64.whl"
+  }
+  version: "1.16.3"
+}

@@ -1,0 +1,8 @@
+name: "click"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/34/c1/8806f99713ddb993c5366c362b2f908f18269f8d792aff1abfd700775a77/click-6.7-py2.py3-none-any.whl"
+  }
+  version: "6.7"
+}

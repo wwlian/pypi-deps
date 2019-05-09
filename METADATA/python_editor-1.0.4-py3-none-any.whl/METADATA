@@ -1,0 +1,8 @@
+name: "python_editor"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/c6/d3/201fc3abe391bbae6606e6f1d598c15d367033332bd54352b12f35513717/python_editor-1.0.4-py3-none-any.whl"
+  }
+  version: "1.0.4"
+}

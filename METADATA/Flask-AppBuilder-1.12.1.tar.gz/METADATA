@@ -1,0 +1,8 @@
+name: "Flask-AppBuilder"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/ca/7b/a4c899095e1ca0eb732cca22934ce483b78b05329f37b97ae0e6e0e3f386/Flask-AppBuilder-1.12.1.tar.gz"
+  }
+  version: "1.12.1"
+}

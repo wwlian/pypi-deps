@@ -1,0 +1,8 @@
+name: "Pygments"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/6e/00/c5cb5fc7c047da4af049005d0146b3a961b1a25d9cefbbe24bf0882a11ad/Pygments-2.4.0-py2.py3-none-any.whl"
+  }
+  version: "2.4.0"
+}

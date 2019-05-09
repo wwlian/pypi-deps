@@ -1,0 +1,8 @@
+name: "httplib2"
+third_party {
+  url {
+    type: ARCHIVE
+    value: "https://files.pythonhosted.org/packages/e8/b3/b34037575d6d75ff8dcfcf75315f56befbe409952be9f95c9b8cc9ee0499/httplib2-0.12.3-py3-none-any.whl"
+  }
+  version: "0.12.3"
+}
