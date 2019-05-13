@@ -1,8 +1,0 @@
-name: "google_api_core"
-third_party {
-  url {
-    type: ARCHIVE
-    value: "https://files.pythonhosted.org/packages/c4/71/23a234ee35117c2ed1ebd5a62ae07ef29f9f0bae9ea816b91312bad81646/google_api_core-1.8.1-py2.py3-none-any.whl"
-  }
-  version: "1.8.1"
-}
